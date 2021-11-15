@@ -1,0 +1,36 @@
+{
+  "id": "0ee13a81-3cf6-4395-8de7-052c01a25b4b",
+  "name": "NewInvoice",
+  "publisher": "ForNAV",
+  "version": "1.0.0.0",
+  "runtime": "6.0",
+  "showMyCode": true,
+  "target": "Cloud",
+  "platform": "19.0.29884.30390",
+  "dependencies": [
+    {
+      "id": "83326d6d-11f8-49fd-981a-6f266a7c8d81",
+      "name": "Customizable Report Pack",
+      "version": "4.0.0.0",
+      "publisher": "ForNAV"
+    },
+    {
+      "id": "6f0293d3-86fc-4ff8-9632-54a580be6546",
+      "name": "ForNAV Core",
+      "version": "4.0.0.0",
+      "publisher": "ForNAV"
+    },
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "name": "System Application",
+      "version": "15.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "version": "15.0.0.0",
+      "publisher": "Microsoft"
+    }
+  ]
+}
