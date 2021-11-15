@@ -1,0 +1,11 @@
+{
+  "id": "f6e008d6-11b6-491b-9d53-3650e9163c44",
+  "Name": "Obsolete",
+  "publisher": "Micha",
+  "Version": "6.1.0.2114",
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "runtime": "3.0",
+  "target": "Internal",
+  "showMyCode": true
+}
